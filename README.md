@@ -1,4 +1,6 @@
 # Console.log en PHP
+
+Este repositorio es parte del artículo de [como usar console log desde PHP](https://misterdigital.es/como-usar-console-log-en-php/)
 En el archivo console.php tenemos la función para pasar variables de PHP a la consola de Javascript y en el archivo index.php tenemos un ejemplo de uso de la función
 =======================================
 
